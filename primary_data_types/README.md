@@ -1,0 +1,1 @@
+This folder includes several codes written using primary data types in python. 
